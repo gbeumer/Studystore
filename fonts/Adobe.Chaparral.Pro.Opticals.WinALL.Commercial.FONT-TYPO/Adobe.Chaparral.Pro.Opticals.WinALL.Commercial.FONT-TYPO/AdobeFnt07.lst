@@ -1,0 +1,596 @@
+%!Adobe-FontList 1.07
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Bold
+FamilyName:Chaparral Pro
+StyleName:Bold
+FullName:Chaparral Pro Bold
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115940
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldCapt
+FamilyName:Chaparral Pro
+StyleName:Bold Caption
+FullName:Chaparral Pro Bold Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115552
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldDisp
+FamilyName:Chaparral Pro
+StyleName:Bold Display
+FullName:Chaparral Pro Bold Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116260
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldIt
+FamilyName:Chaparral Pro
+StyleName:Bold Italic
+FullName:Chaparral Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115384
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldItCapt
+FamilyName:Chaparral Pro
+StyleName:Bold Italic Caption
+FullName:Chaparral Pro Bold Italic Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116392
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldItDisp
+FamilyName:Chaparral Pro
+StyleName:Bold Italic Display
+FullName:Chaparral Pro Bold Italic Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:113692
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldItSubh
+FamilyName:Chaparral Pro
+StyleName:Bold Italic Subhead
+FullName:Chaparral Pro Bold Italic Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116704
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-BoldSubh
+FamilyName:Chaparral Pro
+StyleName:Bold Subhead
+FullName:Chaparral Pro Bold Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-BoldSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:118428
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Capt
+FamilyName:Chaparral Pro
+StyleName:Caption
+FullName:Chaparral Pro Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Capt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:114264
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Disp
+FamilyName:Chaparral Pro
+StyleName:Display
+FullName:Chaparral Pro Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Disp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:117920
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Italic
+FamilyName:Chaparral Pro
+StyleName:Italic
+FullName:Chaparral Pro Italic
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115488
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-ItCapt
+FamilyName:Chaparral Pro
+StyleName:Italic Caption
+FullName:Chaparral Pro Italic Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-ItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115216
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-ItDisp
+FamilyName:Chaparral Pro
+StyleName:Italic Display
+FullName:Chaparral Pro Italic Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-ItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116808
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-ItSubh
+FamilyName:Chaparral Pro
+StyleName:Italic Subhead
+FullName:Chaparral Pro Italic Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-ItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:117216
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Light
+FamilyName:Chaparral Pro
+StyleName:Light
+FullName:Chaparral Pro Light
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115496
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightCapt
+FamilyName:Chaparral Pro
+StyleName:Light Caption
+FullName:Chaparral Pro Light Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:114840
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightDisp
+FamilyName:Chaparral Pro
+StyleName:Light Display
+FullName:Chaparral Pro Light Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:114228
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightIt
+FamilyName:Chaparral Pro
+StyleName:Light Italic
+FullName:Chaparral Pro Light Italic
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115140
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightItCapt
+FamilyName:Chaparral Pro
+StyleName:Light Italic Caption
+FullName:Chaparral Pro Light Italic Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115348
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightItDisp
+FamilyName:Chaparral Pro
+StyleName:Light Italic Display
+FullName:Chaparral Pro Light Italic Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:112408
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightItSubh
+FamilyName:Chaparral Pro
+StyleName:Light Italic Subhead
+FullName:Chaparral Pro Light Italic Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116284
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-LightSubh
+FamilyName:Chaparral Pro
+StyleName:Light Subhead
+FullName:Chaparral Pro Light Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-LightSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:117040
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Regular
+FamilyName:Chaparral Pro
+StyleName:Regular
+FullName:Chaparral Pro
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:115724
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Semibold
+FamilyName:Chaparral Pro
+StyleName:Semibold
+FullName:Chaparral Pro Semibold
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:117112
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldCapt
+FamilyName:Chaparral Pro
+StyleName:Semibold Caption
+FullName:Chaparral Pro Semibold Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116024
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldDisp
+FamilyName:Chaparral Pro
+StyleName:Semibold Display
+FullName:Chaparral Pro Semibold Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:118496
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldIt
+FamilyName:Chaparral Pro
+StyleName:Semibold Italic
+FullName:Chaparral Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116384
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldItCapt
+FamilyName:Chaparral Pro
+StyleName:Semibold Italic Caption
+FullName:Chaparral Pro Semibold Italic Caption
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116848
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldItDisp
+FamilyName:Chaparral Pro
+StyleName:Semibold Italic Display
+FullName:Chaparral Pro Semibold Italic Display
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:118608
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldItSubh
+FamilyName:Chaparral Pro
+StyleName:Semibold Italic Subhead
+FullName:Chaparral Pro Semibold Italic Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:118152
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-SemiboldSubh
+FamilyName:Chaparral Pro
+StyleName:Semibold Subhead
+FullName:Chaparral Pro Semibold Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-SemiboldSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:117736
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChaparralPro-Subh
+FamilyName:Chaparral Pro
+StyleName:Subhead
+FullName:Chaparral Pro Subhead
+WritingScript:Roman
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\ChaparralPro-Subh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:116880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\file_id.diz
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\t-acproo.zip
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\fonts\Adobe.Chaparral.Pro.Opticals.WinALL.Commercial.FONT-TYPO\typo.nfo
+%EndFont
+
