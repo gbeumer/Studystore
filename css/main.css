@@ -57,7 +57,7 @@ body , p 		{ font: 16px/26px Helvetica, Helvetica Neue, Arial; }
 
 h1, h2, h3 		{ font-family:"parry",Arial,sans-serif;color:#5e402a;font-weight:normal;text-align:center;}
 h3				{ font-weight:bold;font-size:20px;color:#9abed8;text-align: left;margin:0;padding-top: 15px; }
-a.button 		{ display: block;background: transparent url('../img/sprite-campagne.png?v2') no-repeat left -3px;width: 260px;height: 32px;color: #fff;text-decoration: none;line-height: 34px;font-family: "parry";padding-left: 36px;font-size: 14px;}
+a.button 		{ display: block;background: transparent url('../img/sprite-campagne.png') no-repeat left -3px;width: 260px;height: 32px;color: #fff;text-decoration: none;line-height: 34px;font-family: "parry";padding-left: 36px;font-size: 14px;}
 a.button.order	{ background-position: left -273px;}
 .main 			{ padding: 5px 0;} 
 .main article h1 	{ font-size: 25px; line-height: 35px; }
@@ -78,16 +78,16 @@ article section		{width:95%;margin-left: 22px;}
 
 #no_old_books				{background:#97bfd9;padding-top: 1px;position:relative;overflow:auto;}
 #no_old_books .container		{margin:24px 0 21px 239px;}
-#no_old_books h2				{background:transparent url('../img/sprite-campagne.png?v2') no-repeat left -45px;width:320px;height:31px;text-indent:-999px;overflow:hidden;margin:0 0 13px 35px;}
+#no_old_books h2				{background:transparent url('../img/sprite-campagne.png') no-repeat left -45px;width:320px;height:31px;text-indent:-999px;overflow:hidden;margin:0 0 13px 35px;}
 #no_old_books ul				{padding:0;overflow:auto;margin:0;}
 #no_old_books ul li			{float:left;width:40%;list-style:square;color:#fff;margin:5px 0 22px 34px;line-height:18px;}
 #no_old_books ul li span		{color:#5e402a;font-size:14px;}
-#no_old_books .square		{width:150px;height:150px;background:transparent url('../img/sprite-campagne.png?v2') no-repeat -2px -95px;position:absolute;top:30px;left:38px;}
+#no_old_books .square		{width:150px;height:150px;background:transparent url('../img/sprite-campagne.png') no-repeat -2px -95px;position:absolute;top:30px;left:38px;}
 
 footer				{position:relative;}
 footer .container		{margin:24px 0 21px 295px;}
 footer .container p	{width:83%;}
-footer .spotify		{width:180px;height:200px;background:transparent url('../img/sprite-campagne.png?v3') no-repeat -163px -70px;position:absolute;top:-20px;left:53px;}
+footer .spotify		{width:180px;height:200px;background:transparent url('../img/sprite-campagne.png') no-repeat -163px -70px;position:absolute;top:-20px;left:53px;}
 
 /* ==========================================================================
    Helper classes
