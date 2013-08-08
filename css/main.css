@@ -3,11 +3,13 @@ body {    font-size: 1em;    line-height: 1.4; }
 
 ::-moz-selection {    background: #b3d4fc;    text-shadow: none;}
 ::selection {    background: #b3d4fc;    text-shadow: none;}
+
 hr {    display: block;    height: 1px;    border: 0;    border-top: 1px solid #b5b5b5;    margin: 2.3em 0;    padding: 0;}
 img {    vertical-align: middle;outline:none; }
 fieldset {    border: 0;    margin: 0;    padding: 0;}
 textarea {    resize: vertical; }
 .chromeframe {    margin: 0.2em 0;     background: #ccc;    color: #000;    padding: 0.2em 0;}
+
 
 @font-face { 
     font-family:'parry';
@@ -58,6 +60,8 @@ body , p 		{ font: 16px/26px Helvetica, Helvetica Neue, Arial; }
 h1, h2, h3 		{ font-family:"parry",Arial,sans-serif;color:#5e402a;font-weight:normal;text-align:center;}
 h2				{ font-size:25px; }
 h3				{ font-weight:bold;font-size:20px;color:#9abed8;text-align: left;margin:0;padding-top: 15px; }
+a				{ color:#5e402a; }
+a:hover			{ text-decoration:none;}
 a.button 		{ display: block;background: transparent url('../img/sprite-campagne.png?v2') no-repeat left -3px;width: 260px;height: 32px;color: #fff;text-decoration: none;line-height: 34px;font-family: "parry";padding-left: 36px;font-size: 14px;margin-left:30px;letter-spacing:3px;}
 a.button:hover	{ background-position:left -358px;}
 a.button.order	{ background-position: left -273px;}
@@ -73,11 +77,19 @@ a.button.order	{ background-position: left -273px;}
 article header			{width:90%;margin-left: 56px;}
 article header .content	{text-align:center;padding:0 56px;}
 article section			{}
-#steps div			{text-align:justify;}
-#steps div a			{display:inline-block;margin-right: 19px;}
-#steps div a:last-child {margin-right: 0;}
-#steps div img		{border:1px solid #b5b5b5;}
-
+#steps div			{text-align:justify;overflow:hidden;}
+#steps div a			{display:inline-block;float:left;margin: 0 23px 15px 0;border:1px solid #b5b5b5;width:252px;height:440px;}
+#steps div a.volg			{cursor:default;}
+#steps div a:nth-child(3n) { margin-right: 0;}
+#steps div strong,
+#steps div span,
+#steps div img		   {display:block;}
+#steps div a		    	   {text-decoration:none;}
+#steps div strong		   { width:100%;text-align:center;font-family:"parry",Arial,sans-serif;color:#5e402a;font-weight;normal;font-size:18px;}
+#steps div span		   {width:81%;margin-left:25px;text-align:left;}
+#steps div span.intro	   {color:#f08e00;font-family: 'Crafty Girls', cursive;, cursive;font-weight:400;font-size:16px;}
+#steps div span.content {font-size:11px;line-height:18px;color:#000;}
+#steps div span.content a {display:inline;}
 
 footer				{position:relative;}
 footer .content		{padding:0 117px;width:70%;}
